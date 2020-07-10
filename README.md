@@ -1,5 +1,7 @@
-[![Build Status](https://travis-ci.org/0intro/drawterm.svg?branch=master)](https://travis-ci.org/0intro/drawterm)
-[![Coverity Scan Build Status](https://scan.coverity.com/projects/drawterm/badge.svg)](https://scan.coverity.com/projects/drawterm)
+# conterm — drawterm without the graphics
+
+(The below comes almost straight from drawterm;
+changes in the repo are minimal beyond getting things working.)
 
 INSTALLATION
 --------------
